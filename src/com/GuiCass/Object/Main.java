@@ -6,7 +6,7 @@ public class Main
 {
     public static void main(String[] args) {
 
-        EmployeeRegistrationForm emf = new EmployeeRegistrationForm();
+        StudentLoginPage obj = new StudentLoginPage();
 
     }
 }
