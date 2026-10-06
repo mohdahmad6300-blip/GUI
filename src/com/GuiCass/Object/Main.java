@@ -6,7 +6,7 @@ public class Main
 {
     public static void main(String[] args) {
 
-        StudentLoginPage obj = new StudentLoginPage();
+       Notepad notepad = new Notepad();
 
     }
 }
